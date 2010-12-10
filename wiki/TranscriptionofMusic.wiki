@@ -4,4 +4,4 @@
 
 
 = References = 
-Ansi Klapuri et. al, _Automatic Transcription of music_
+Anssi Klapuri et. al, _Automatic Transcription of music_
