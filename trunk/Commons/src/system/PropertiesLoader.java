@@ -1,5 +1,6 @@
 package system;
 
+import java.net.InetAddress;
 import java.util.HashMap;
 import java.util.Locale;
 import java.util.Map;
@@ -29,7 +30,15 @@ public class PropertiesLoader {
 			synchronized(g_isSystemInitialized) {
 				if (!g_isSystemInitialized) {
 					g_cache = new HashMap<ClassLoader, Properties>();
-					g_systemName = System.getProperty("computername");
+					
+					try {
+						InetAddress i = InetAddress.getLocalHost();
+						g_systemName =  i.getHostName().toLowerCase();
+					}
+					catch (Exception e) {
+						System.err.println("Couldn't find the host name");
+						g_systemName = "";
+					}
 				}
 			}
 		}
@@ -74,22 +83,28 @@ public class PropertiesLoader {
 			if (props == null) {
 				props = new Properties();
 				
-				ResourceBundle bundle = ResourceBundle.getBundle("defualt", Locale.getDefault(), classLoader);
+				ResourceBundle bundle = null;
 				
-				if (bundle != null) {
-					System.err.println("Couldn't find default.properties in the classpath.");
+				try { 
+					bundle = ResourceBundle.getBundle("default", Locale.getDefault(), classLoader);
+					
 					for (String key : bundle.keySet()) {
 						props.put(key, bundle.getObject(key));
 					}
 				}
+				catch(Exception e) {
+					System.err.println("Couldn't find default.properties in the classpath.");
+				}
 				
-				bundle = ResourceBundle.getBundle(g_systemName, Locale.getDefault(), classLoader);
-				
-				if (bundle != null) {
-					System.err.println("Couldn't find " + g_systemName + ".properties in the classpath.");
+				try {
+					bundle = ResourceBundle.getBundle(g_systemName, Locale.getDefault(), classLoader);
+					
 					for (String key : bundle.keySet()) {
 						props.put(key, bundle.getObject(key));
 					}
+				}
+				catch(Exception e) {
+					System.err.println("Couldn't find " + g_systemName + ".properties in the classpath.");
 				}
 				
 				g_cache.put(classLoader, props);
