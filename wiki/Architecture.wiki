@@ -1,0 +1,6 @@
+#summary Overall architecture
+
+Broadly divided in following subprojects 
+
+ * [Commons]
+ * [SoundTranscriptor]
