@@ -8,5 +8,6 @@
 	<classpathentry kind="lib" path="lib/tritonus_mp3-0.3.6.jar"/>
 	<classpathentry kind="lib" path="lib/tritonus_share-0.3.6.jar"/>
 	<classpathentry kind="lib" path="lib/jAudio.jar"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/Commons"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
