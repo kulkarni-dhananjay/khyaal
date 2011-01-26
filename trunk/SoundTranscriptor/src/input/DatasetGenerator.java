@@ -51,7 +51,7 @@ public class DatasetGenerator {
 		
 		File[] audioFiles = rawDir.listFiles(extensionFilter);
 		
-		ClipReader reader = new ClipReader(new ClipReader.CsvSerializer());
+		ClipReader reader = new ClipReader(new ClipReader.EdgeDetection());
 		
 		for (File audio : audioFiles) {
 			String filename = audio.getName();
