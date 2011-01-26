@@ -1,0 +1,13 @@
+p d1 n s s s n s r2 s n s n d1 p m1 
+n d1 d1 p p m1 n s n d1 n p p p p d1 p m1 p 
+p d1 n s s s n s r2 g1 r2 s n s n d1 p m1 
+n d1 d1 p p m1 n s n d1 n p p p d1 d1 n 
+n n s r2 r2 r2 r2 m1 g1 r2 g1 r2 s n s r2 s n s n d1 d1 n s n d1 n d1 p n 
+n n s r2 r2 r2 r2 m1 g1 r2 g1 r2 s n s r2 s n s n d1 d1 n s d1 n n p 
+g1 g1 r2 s n2 s p g1 g1 r2 s n2 r2 s n r2 r2 s n d2 n m1 p n d1 d1 p p 
+g1 g1 r2 s n2 s p g1 g1 r2 s n2 s r2 r2 s n d2 n m1 m1 n d1 d1 p p 
+p d1 d1 n 
+p p m1 m1 d1 p g1 r2 s s r2 r2 g1 g1 m1 m1 m1 m1 m1 d1 p d1 d1 n s n d1 n d1 p 
+p p m1 m1 d1 p g1 r2 s s r2 g1 g1 g1 m1 m1 m1 m1 m1 m1 d1 p d1 n s n d1 n d1 p 
+p p d1 n 
+n n s r2 r2 
