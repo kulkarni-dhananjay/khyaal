@@ -1,0 +1,22 @@
+s n2 n2 s r2 r2 r2 p p m1 p m1 r2 n2 s r2 s n2 n2 
+n2 s r2 r2 r2 p p m1 p m1 r2 n2 s 
+n2 s r2 r2 r2 p p m1 p m1 r2 n2 s r2 s n2 n2 n2 
+n2 s r2 r2 r2 p p m1 p m1 r2 n2 s 
+p m1 r2 p m1 p p p n1 p r2 p m1 p 
+r2 p m1 m1 r2 r2 r2 r2 p p m1 m1 r2 
+r2 m1 r2 s n2 n2 n2 s s s s s 
+p m1 m1 r2 r2 r2 r2 p p m1 m1 r2 
+r2 m1 r2 s n2 n2 s s s s s n2 r2 s n2 
+s s s s s s s s n2 n2 p 
+s s s n2 n2 p s s n2 r2 s n2 n2 p s 
+s s s s s s r2 n2 s n2 p p s 
+s s n2 s n2 p p m1 m1 m1 p 
+s s s s s s s n2 n2 p 
+s s s n2 n2 p s s n2 s r2 s n2 n2 p s 
+s s s s s r2 n2 s n2 p p s 
+s s n2 s n2 p p m1 m1 m1 p 
+m1 p p m1 m1 r2 r2 m1 m1 p p m1 m1 r2 r2 m1 
+m1 p p m1 m1 r2 r2 r2 r2 m1 p s n2 
+g 
+m1 p p m1 m1 r2 r2 m1 m1 p p m1 m1 r2 r2 m1 
+m1 p p m1 m1 r2 r2 s s s s n2 s m1 r2 m1 r2 s n2 

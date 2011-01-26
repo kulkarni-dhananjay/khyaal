@@ -1,0 +1,10 @@
+d2- s  r2  g1      r2  r2  s  r2 r2  g2    s   s d2-        r2  r2  s     r2 r2       g2    s s 
+p p p    p d2p g2                        p p p           p   d2 p  g2 
+g2  d2 p  g2  r2  s  r2  g1 
+r2  r2  s  r2 r2  g2     s   s d2-     r2  r2  s  r2 r2 g2     s s 
+
+s s s  s  r2  s  d2-         s s s  s  r2  s  d2-      r2 r2 r2  r2 g2 r2  s r2  g2 g2    s s s s 
+s s s  s  r2  s  d2-      s s s  s  r2  s  d2-     r2 r2 r2  r2 g2 r2  s r2  g2 g2    s s s s 
+p p p     p d2 p  g1     g2 
+p p p    p d2 p g2                p p p  p  d2 p  g2 
+g2  d2 p  g2  r2  s  r2  g1 

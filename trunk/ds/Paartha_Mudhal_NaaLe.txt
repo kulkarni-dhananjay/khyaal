@@ -1,0 +1,24 @@
+p s p m1 p m1 p m1 g1 m1 g1 r2 
+s g1 g1 r2 r2 s s n s r2 
+p p m1 p m1 p m1 g1 m1 g1 r2 
+s g1 g1 r2 r2 s s n n s n2 s 
+p m1 r2 m1 g1 r2 s s r2 s n s r2 m1 g1 m1 g1 r2 
+p m1 r2 m1 g1 r2 s s s r2 s r2 s n s r2 m1 g1 m1 g1 r2 
+r2 r2 g1 m1 m1 p m1 g1 g1 m1 p m1 p 
+r2 g1 m1 m1 m1 m1 g1 m1 p m1 p 
+p p s r2 s n d2 n p p d1 p m1 g1 r2 g1 m1 p m1 g1 r2 s n2 s 
+m1 m1 p p p p p m1 m1 p m1 p p m1 g1 r2 s 
+s r2 m1 m1 m1 p d2 p p m1 p s d2 d2 
+m1 m1 d2 d2 d2 d2 d2 n p d2 d2 d2 d2 d2 d2 p 
+d2 m1 
+d2 s r2 s n d2 p m1 m1 d2 p p 
+m1 m1 p p p p d2 p m1 m1 p m1 p m1 g1 r2 g1 s 
+s r2 m1 m1 m1 m1 p d2 p p m1 p d2 d2 
+m1 m1 m1 d2 d2 d2 d2 d2 p d2 d2 d2 d2 d2 d2 d2 n d2 p 
+d2 m1 
+d2 s s r2 g1 r2 s n n d2 d2 p p m1 m1 n p p 
+m1 g1 g1 m1 g1 r2 s m1 m1 g1 g1 m1 g1 r2 s r2 s n 
+n n s r2 s r2 s n s n p p r2 r2 
+g1 m1 
+s r2 r2 r2 r2 g1 g1 g1 g1 m1 m1 p m1 g1 r2 g1 r2 s 
+n n n r2 r2 r2 r2 g1 r2 s r2 s r2 s 

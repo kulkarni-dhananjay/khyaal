@@ -1,0 +1,1 @@
+s r2 g1 p m2 g1 p n1 d1 p m2 g1 r1 r1 r1 g1 m2 p d1 p n1 n1 d1 p m2 g1 d1 p s+ s+ s+ s+ s+ s+ s+ r2+ n1 n1 n1 n1 n1 n1 n1 s+ n1 d1 p s+ s+ s+ s+ s+ s+ s+ r2+ n1 s+ s+ s+ s+ n1 s+ n1 d1 p p p d1 p p d1 p p n1 d1 p m2 m2 m2 m2 p m2 g1 m2 g1 r1 s r2
